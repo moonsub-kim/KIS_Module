@@ -1,2 +1,2 @@
 # KIS_Module
-Python Module for Korea Investment Open API
+KIS_Module is a Python Module wrapping REST interface of [Korea Investment Open API](https://apiportal.koreainvestment.com/intro) 
